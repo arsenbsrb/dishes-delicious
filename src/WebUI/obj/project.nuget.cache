@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DnjbyQnSsap09UhNSQw5EGsxfonhwiD3usUqNCGWSiKh2kP4Nc7spS4ebVKh19BYOa9BYUYpTnoOQMFxa3yQTA==",
+  "dgSpecHash": "cSkMF/z6wfo2F6DW+O9n0quMA92iwJxc0xYk7PHR8AGKICQe9gU3pAkrjKThU3VmMkUmCAYgbz4HtT24ZIdHpg==",
   "success": true,
-  "projectFilePath": "D:\\northen-food\\northen-food\\northen-food\\northen-food\\WebUI.csproj",
+  "projectFilePath": "D:\\northen-food\\src\\WebUI\\WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

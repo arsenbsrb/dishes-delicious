@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\northen-food\\northen-food\\northen-food\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\northen-food\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\northen-food\\northen-food\\northen-food\\Domain\\Domain.csproj",
+      "projectPath": "D:\\northen-food\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\northen-food\\northen-food\\northen-food\\Domain\\obj\\",
+      "outputPath": "D:\\northen-food\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

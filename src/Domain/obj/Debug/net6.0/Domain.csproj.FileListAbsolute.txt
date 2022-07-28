@@ -10,3 +10,14 @@ D:\northen-food\northen-food\Domain\obj\Debug\net6.0\Domain.dll
 D:\northen-food\northen-food\Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\northen-food\northen-food\Domain\obj\Debug\net6.0\Domain.pdb
 D:\northen-food\northen-food\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\northen-food\src\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\northen-food\src\Domain\bin\Debug\net6.0\Domain.dll
+D:\northen-food\src\Domain\bin\Debug\net6.0\Domain.pdb
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.dll
+D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.pdb
+D:\northen-food\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\northen-food\src\Domain\bin\Debug\net6.0\ref\Domain.dll

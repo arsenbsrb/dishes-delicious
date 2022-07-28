@@ -1,6 +1,6 @@
 ﻿
-namespace Application.Recipe.Commands;
-internal class CreateRecipeCommand
-{
+//namespace Application.Recipe.Commands;
+//internal class CreateRecipeCommand
+//{
 
-}
+//}

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "northen-food\WebUI.csproj", "{441C4460-14EB-4525-8B1C-9EF8FFA7896C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "src\WebUI\WebUI.csproj", "{441C4460-14EB-4525-8B1C-9EF8FFA7896C}"
 	ProjectSection(ProjectDependencies) = postProject
 		{2E5439B2-2033-4EE9-AB29-C9140C866654} = {2E5439B2-2033-4EE9-AB29-C9140C866654}
 		{0A6AC7C8-B981-45B2-B761-8D69F2EED8C6} = {0A6AC7C8-B981-45B2-B761-8D69F2EED8C6}
@@ -13,14 +13,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0AC41F94-BDB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F38775DE-9922-49CC-9FE7-596295884656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{0A6AC7C8-B981-45B2-B761-8D69F2EED8C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{0A6AC7C8-B981-45B2-B761-8D69F2EED8C6}"
 	ProjectSection(ProjectDependencies) = postProject
 		{6869678C-4975-46AF-9623-AE00D42B22FF} = {6869678C-4975-46AF-9623-AE00D42B22FF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6869678C-4975-46AF-9623-AE00D42B22FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{6869678C-4975-46AF-9623-AE00D42B22FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2E5439B2-2033-4EE9-AB29-C9140C866654}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\Infrastructure\Infrastructure.csproj", "{2E5439B2-2033-4EE9-AB29-C9140C866654}"
 	ProjectSection(ProjectDependencies) = postProject
 		{0A6AC7C8-B981-45B2-B761-8D69F2EED8C6} = {0A6AC7C8-B981-45B2-B761-8D69F2EED8C6}
 	EndProjectSection
