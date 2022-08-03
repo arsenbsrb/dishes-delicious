@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\northen-food\\src\\WebUI\\WebUI.csproj": {}
+    "D:\\dishes-delicios\\src\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "D:\\northen-food\\src\\WebUI\\WebUI.csproj": {
+    "D:\\dishes-delicios\\src\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\northen-food\\src\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "D:\\dishes-delicios\\src\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "D:\\northen-food\\src\\WebUI\\WebUI.csproj",
+        "projectPath": "D:\\dishes-delicios\\src\\WebUI\\WebUI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\northen-food\\src\\WebUI\\obj\\",
+        "outputPath": "D:\\dishes-delicios\\src\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

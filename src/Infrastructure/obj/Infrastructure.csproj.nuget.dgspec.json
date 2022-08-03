@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\northen-food\\src\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\northen-food\\src\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\northen-food\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\northen-food\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\northen-food\\src\\Infrastructure\\obj\\",
+        "outputPath": "D:\\dishes-delicios\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMAlvbNR4zJrbjpZIkT26h01dc+XL1Or98UB5LaGlyo2tOBm0sI86Y8EgpSKbjHLlEkhSPeNCXOmhY03/ryp7g==",
+  "dgSpecHash": "21yMAuGRK3mbMbW+eZZGLlM1ynVv0y9c+EKzeExom9hRZnJ3a/jYsu0GS0hmtFGU2IZtAH72mWbzdLJYQNgAow==",
   "success": true,
-  "projectFilePath": "D:\\northen-food\\src\\Application\\Application.csproj",
+  "projectFilePath": "D:\\dishes-delicios\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

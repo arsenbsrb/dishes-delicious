@@ -21,3 +21,15 @@ D:\northen-food\src\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 D:\northen-food\src\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 D:\northen-food\src\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
 D:\northen-food\src\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+D:\dishes-delicios\src\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\dishes-delicios\src\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\dishes-delicios\src\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\dishes-delicios\src\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll

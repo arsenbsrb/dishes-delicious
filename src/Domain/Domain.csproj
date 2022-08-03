@@ -7,9 +7,4 @@
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Enums\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>

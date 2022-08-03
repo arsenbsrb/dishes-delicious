@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJeUJXzSugLP8cAVYzjh/GS9dzxhBIJc+mb9pMaalcqFyMox3/wirbJ5N7YTnZpUvuOGQpwKiUKMtj9h3GGXow==",
+  "dgSpecHash": "TLStU0sP4E1YB8MFLNI2A61JjPdqDZxKsPzron0xUJMtt80XVKc2LqY38C5jwWQPVHYDyaoqkeF/h3pV8bd1ig==",
   "success": true,
-  "projectFilePath": "D:\\northen-food\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

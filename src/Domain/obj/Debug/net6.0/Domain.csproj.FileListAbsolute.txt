@@ -21,3 +21,15 @@ D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.dll
 D:\northen-food\src\Domain\obj\Debug\net6.0\Domain.pdb
 D:\northen-food\src\Domain\obj\Debug\net6.0\ref\Domain.dll
 D:\northen-food\src\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\dishes-delicios\src\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\dishes-delicios\src\Domain\bin\Debug\net6.0\Domain.dll
+D:\dishes-delicios\src\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\dishes-delicios\src\Domain\bin\Debug\net6.0\Domain.pdb
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.dll
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\dishes-delicios\src\Domain\obj\Debug\net6.0\Domain.pdb

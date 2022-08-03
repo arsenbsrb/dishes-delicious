@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\northen-food\\src\\Application\\Application.csproj": {}
+    "D:\\dishes-delicios\\src\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\northen-food\\src\\Application\\Application.csproj": {
+    "D:\\dishes-delicios\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\northen-food\\src\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\dishes-delicios\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\northen-food\\src\\Application\\Application.csproj",
+        "projectPath": "D:\\dishes-delicios\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\northen-food\\src\\Application\\obj\\",
+        "outputPath": "D:\\dishes-delicios\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
