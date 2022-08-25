@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLStU0sP4E1YB8MFLNI2A61JjPdqDZxKsPzron0xUJMtt80XVKc2LqY38C5jwWQPVHYDyaoqkeF/h3pV8bd1ig==",
+  "dgSpecHash": "XCVvGTELJtPzHpNsHhuaiMMOdiTyTXsZzOTwY1C0JviaWN5iA7BBaQaeBlzRyYUY/5IlJiQg5HLV4umR1Bu5bw==",
   "success": true,
-  "projectFilePath": "D:\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Arsen\\dishes-delicios\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
