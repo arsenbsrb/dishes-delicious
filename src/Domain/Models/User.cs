@@ -1,6 +1,6 @@
-﻿namespace Domain.Models
-{
-    class User
-    {
-    }
-}
+﻿//namespace Domain.Models
+//{
+//    class User
+//    {
+//    }
+//}
