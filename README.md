@@ -7,7 +7,7 @@
 #### If you want to cook something new, just choose recipe wich you like and do it. Simple proccess with steps of preparation and cooking, from start -> to delicios meal.
 #
 ### **What are we learning ?**
-#### During the development of this project, we learn: DB [MSSQL Server], .NET, Angular, Clean architecture.
+#### During the development of this project, we're learn: DB [MSSQL Server], .NET, Angular, Clean architecture.
 #
 ### **Design**
 #### Our own design. 
