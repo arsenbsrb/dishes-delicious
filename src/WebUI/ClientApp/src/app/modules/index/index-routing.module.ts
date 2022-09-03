@@ -4,7 +4,7 @@ import { LandingComponent } from './containers/landing/landing.component';
 import { IndexComponent } from './index.component';
 
 export const routes: Routes = [
-  {path: '', component: IndexComponent, children: [
+  { path: '', component: IndexComponent, children: [
     {path: '', component: LandingComponent }
 
 
