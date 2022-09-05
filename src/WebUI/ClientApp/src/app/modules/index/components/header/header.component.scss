@@ -1,20 +1,19 @@
 .wrapper {
     background-color: #9381FF;
     height: 60px;
-    position: fixed;
+    /* position: fixed; */ /* for fixen navbar */
+    position: relative;
     left: 0;
     right: 0;
     top: 0;
-    z-index: 10;
+    /* z-index: 10; */ /* for fixen navbar */
     .header {
         background-color: #9381FF;
         height: 100%;
-        padding: 0 30px 0 30px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-
-        font-weight: bold;
+  
         font-family: 'Bebas Neue';
         font-size: 20px;
         li, a, button, img {
@@ -30,10 +29,12 @@
                 display: inline-block;
                 padding: 10px;
                 a {
-                    color: #E2DDFF;
+                    /* color: #E2DDFF; */
+                    color: #FFF5DC;
                 }
                 a:hover {
-                    color: white;
+                    /* color: white; */
+                    color: #E2DDFF;
                 }
             }
         }
@@ -41,30 +42,30 @@
         button {
             width: 100px;
             height: 30px;
-            background-color: #E2DDFF;
+            background-color: #FFF5DC;
             color: #9381FF;
-            font-weight: bold;
             font-family: 'Bebas Neue';
             font-size: 20px;
             border-radius: 50px;
             border: none;
+            margin: 10px;
         }
 
         button:hover {
-            color: #E2DDFF;
+            color: #FFF5DC;
             background-color: #9381FF;
             /* cursor: pointer; */
         }
-
 
         .logo {
             width: 137px;
             height: auto;
             transition: transform 250ms;
+            padding-top: 6px;
+            margin-left: 95px;
         }
         .logo:hover {
-            transform: translateY(-3px);
-            /* zoom: 200% ; */
+            transform: translateY(3px);
         }
         
     }
